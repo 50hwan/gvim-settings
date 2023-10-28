@@ -127,7 +127,8 @@ set wrap
 set background=dark
 
 " Set the color scheme.
-colorscheme slate
+" colorscheme gruvbox
+colorscheme PaperColor
 
 " Set a custom font you have installed on your computer.
 set guifont=나눔고딕코딩:h12:cHANGEUL:qDEFAULT
